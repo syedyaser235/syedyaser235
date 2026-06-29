@@ -24,4 +24,4 @@ working through a series of applied projects, documented here as I go.
   of Color Histogram*, Patent No. 565143 (ICADCML, NIT Warangal)
 
 ## Connect
-- LinkedIn: [Syed Yaser Mahmood](www.linkedin.com/in/syedyasermahmood)
+- LinkedIn: [Syed Yaser Mahmood](https://www.linkedin.com/in/syedyasermahmood)
