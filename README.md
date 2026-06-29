@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Syed Yaser
 
-<!--
-**syedyaser235/syedyaser235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst transitioning toward AI/ML/DS research
 
-Here are some ideas to get you started:
+## Background
+- B.Tech in Computer Science (Big Data Analytics specialization), 2023
+- 2+ years experience as Data Analyst → Data Scientist II, working with Python 
+  and SQL on analytics, KPI reporting, and BI for business leadership
+- Undergrad research in Image Retrieval and 5G/IoT networks, co-authored a 
+  publication and hold a granted patent from this work
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm doing now
+Currently rebuilding hands-on ML/DL depth (theory + scikit-learn/PyTorch) and 
+working through a series of applied projects, documented here as I go.
+
+## Projects
+*(coming soon — first project in progress)*
+
+## Publications & Patents
+- *5G-Enabled Secure IoT Applications in Smart Cities Using Software-Defined 
+  Networks*, IGI Global, 2023
+- Patent: *Performance Analysis of Image Retrieval Method Using Quantized Bins 
+  of Color Histogram*, Patent No. 565143 (ICADCML, NIT Warangal)
+
+## Connect
+- LinkedIn: [Syed Yaser Mahmood](www.linkedin.com/in/syedyasermahmood)
