@@ -25,3 +25,4 @@ working through a series of applied projects, documented here as I go.
 
 ## Connect
 - LinkedIn: [Syed Yaser Mahmood](https://www.linkedin.com/in/syedyasermahmood)
+- email : syedyaser235@gmail.com
