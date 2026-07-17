@@ -1,6 +1,6 @@
 # Hi, I'm Syed Yaser
 
-Data Analyst transitioning toward AI/ML/DS research
+Data Analyst transitioning toward AI/ML/DS
 
 ## Background
 - B.Tech in Computer Science (Big Data Analytics specialization), 2023
@@ -15,7 +15,8 @@ Currently rebuilding hands-on ML/DL depth (theory + scikit-learn/PyTorch) and
 working through a series of applied projects, documented here as I go.
 
 ## Projects
-*(coming soon — first project in progress)*
+- [Handson ML Algorithm Implementations](https://github.com/syedyaser235/ml-handson)
+- [Data Fundamentals with Python](https://github.com/syedyaser235/data-funtamentals-with-python)
 
 ## Publications & Patents
 - *5G-Enabled Secure IoT Applications in Smart Cities Using Software-Defined 
