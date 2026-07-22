@@ -15,6 +15,7 @@ Currently rebuilding hands-on ML/DL depth (theory + scikit-learn/PyTorch) and
 working through a series of applied projects, documented here as I go.
 
 ## Projects
+- [Public Safety RAG Assistant](https://github.com/syedyaser235/public-safety-rag-assistant) 
 - [Handson ML Algorithm Implementations](https://github.com/syedyaser235/ml-handson)
 - [Data Fundamentals with Python](https://github.com/syedyaser235/data-funtamentals-with-python)
 
