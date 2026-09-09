@@ -4,7 +4,7 @@ Data Analyst transitioning toward AI/ML/DS
 
 ## Background
 - B.Tech in Computer Science (Big Data Analytics specialization), 2023
-- 2+ years experience as Data Analyst → Data Scientist II, working with Python 
+- 3 years experience as Data Analyst → Data Scientist II, working with Python 
   and SQL on analytics, KPI reporting, and BI for business leadership
 - Undergrad research in Image Retrieval and 5G/IoT networks, co-authored a 
   publication and hold a granted patent from this work
